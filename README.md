@@ -2,6 +2,7 @@
 Just git clone from here: https://github.com/MrShakes/crowdbotics.git
 
 Run `npm install` or `yarn install` then `yarn start` to start development server
+You can run the App on your phone from there
 
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
